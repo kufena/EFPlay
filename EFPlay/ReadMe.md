@@ -1,0 +1,1 @@
+﻿A simple entity framework example to find some pots and their images - all images and main image - using LINQ to do a left outer join.

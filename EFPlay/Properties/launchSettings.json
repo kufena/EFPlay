@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EFPlay": {
+      "commandName": "Project",
+      "commandLineArgs": "\"server=localhost;port=33066;database=PotterShop;user=pottershop;password=th30ldp0tt3rsh0pp3\""
+    }
+  }
+}
